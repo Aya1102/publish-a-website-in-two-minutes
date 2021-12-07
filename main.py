@@ -13,3 +13,4 @@ st.write('''Now add some text
 Hope you like it
 And enjoy''')
 st.write(df)
+st.line_chart(df)
